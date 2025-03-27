@@ -1,0 +1,6 @@
+framework module TelinkSigMeshLib {
+  umbrella header "TelinkSigMeshLib.h"
+  export *
+
+  module * { export * }
+}
