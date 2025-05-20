@@ -61,6 +61,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param result callback when CBCentralManager had inited.
 - (void)bleInit:(bleInitSuccessCallback)result;
 
+- (void)configBluetooth;
+
 /**
  * @brief   Returns whether Bluetooth has been initialized.
  * @return  YES means Bluetooth has been initialized, NO means other.

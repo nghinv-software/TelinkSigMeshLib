@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/SigBluetooth.h</key>
 		<data>
-		dd0EmC4cCOpGSmmwf0cBIIv/pYI=
+		SmNB8zzCHTUA6aeojSIabtqnV4c=
 		</data>
 		<key>Headers/SigConfigMessage.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Headers/SigDataSource.h</key>
 		<data>
-		r8dWM++vCsArV0ag3ydEzjTR9wI=
+		sYD22FHZN+QfADbVR7Meg02/hiQ=
 		</data>
 		<key>Headers/SigEnumeration.h</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Headers/SigModel.h</key>
 		<data>
-		rlFMIblq/EztSYCSvKQgf1flR7k=
+		VZoaQ6dt+zWyqCJaS/qMXx9I8cw=
 		</data>
 		<key>Headers/SigPdu.h</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e2Scmb+7wFHwiODcBFXlZzbqihs=
+		DirK5RbINatpDLpipcRRrOJTUmY=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -541,11 +541,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dd0EmC4cCOpGSmmwf0cBIIv/pYI=
+			SmNB8zzCHTUA6aeojSIabtqnV4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q+45qtE8vJ0RB1eToNBEACDbd1tFvspiixSlbu8DFgU=
+			hYI9hRq5jKyXzQ4lXTMf2NB5LTifS8bHNVQao2PnvWs=
 			</data>
 		</dict>
 		<key>Headers/SigConfigMessage.h</key>
@@ -574,11 +574,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r8dWM++vCsArV0ag3ydEzjTR9wI=
+			sYD22FHZN+QfADbVR7Meg02/hiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			PG7zWf0FST/dxfPewbvQJqM4Gc1cXsbcz8meeQZ3Huo=
+			65GQaMlNP6SOgFThbzBLVipVMQwI2Ytne8bKtx5QFrY=
 			</data>
 		</dict>
 		<key>Headers/SigEnumeration.h</key>
@@ -684,11 +684,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rlFMIblq/EztSYCSvKQgf1flR7k=
+			VZoaQ6dt+zWyqCJaS/qMXx9I8cw=
 			</data>
 			<key>hash2</key>
 			<data>
-			sr6HgKlrJSSwx/j2vo5pYcjtlCqzCdSnL3jtFcpTqJc=
+			LIq8fTxjgxeRryPcrJhir6ddNCSBR7yqVPEBwxeSFNk=
 			</data>
 		</dict>
 		<key>Headers/SigPdu.h</key>

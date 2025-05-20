@@ -861,6 +861,20 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (NSString *)getCurrentProvisionerUUID;
 
+/**
+ * @brief   Add a group with group name.
+ * @param   groupName    The name of group.
+ * @note    This API is used to add a group with group name.
+ */
+- (SigGroupModel *)addGroupWithGroupName:(NSString *)groupName;
+
+/**
+ * @brief   Delete a group with group address.
+ * @param   groupAddress    The address of group.
+ * @note    This API is used to delete a group with group address.
+ */
+- (void)deleteGroupWithGroupAddress:(UInt16)groupAddress;
+
 #pragma mark - deprecated API
 
 /**
