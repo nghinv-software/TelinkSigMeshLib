@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TelinkSigMeshLib'
-  s.version          = '1.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'Telink SigMesh Library'
   s.description      = 'Telink SigMesh Library for BLE Mesh'
   s.homepage         = 'https://www.telink-semi.com'
